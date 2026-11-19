@@ -1,0 +1,12 @@
+{
+  "name": "sidebar-time",
+  "version": "0.2.1",
+  "description": "Start and stop the local Windows Codex sidebar time patch.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "侧栏聊天时间",
+    "shortDescription": "显示聊天行的最后活动时间",
+    "longDescription": "通过本机运行时补丁，在 Windows Codex 原有聊天行显示最后活动时间。",
+    "category": "Productivity"
+  }
+}

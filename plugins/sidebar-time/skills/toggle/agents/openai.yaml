@@ -1,0 +1,5 @@
+interface:
+  display_name: 侧栏时间
+  short_description: 切换聊天行的时间显示
+policy:
+  allow_implicit_invocation: false

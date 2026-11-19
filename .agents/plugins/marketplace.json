@@ -1,0 +1,12 @@
+{
+  "name": "local-sidebar-tools",
+  "interface": { "displayName": "本机侧栏工具" },
+  "plugins": [
+    {
+      "name": "sidebar-time",
+      "source": { "source": "local", "path": "./plugins/sidebar-time" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
