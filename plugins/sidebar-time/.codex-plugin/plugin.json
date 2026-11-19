@@ -1,6 +1,6 @@
 {
   "name": "sidebar-time",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Start and stop the local Windows Codex sidebar time patch.",
   "skills": "./skills/",
   "interface": {
